@@ -1,8 +1,8 @@
-<img align="right" src="YOUR-IMAGE-LINK-HERE" width="200" />
+<img align="right" src="(https://github.com/ahley18/ahley18/blob/main/cla.png)" width="200" />
 
 # 👋 Hi there
 
-I'm **Your Name**, a passionate [your job/role] and [something else you like, e.g., tech enthusiast, content creator].  
+I'm **Clarence Fetalino**, a passionate AI/SW Engineer and [something else you like, e.g., tech enthusiast, content creator].  
 With over X years of experience in [your field], I've had the opportunity to work on various projects and learn different technologies.
 
 ## 🛠️ Expertise
