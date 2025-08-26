@@ -1,4 +1,4 @@
-<img align="right" src="(https://github.com/ahley18/ahley18/blob/main/cla.png)" width="200" />
+<img align="right" src="https://github.com/ahley18/ahley18/blob/main/cla.png" width="200" />
 
 # 👋 Hi there
 
