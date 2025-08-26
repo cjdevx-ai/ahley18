@@ -13,9 +13,6 @@ Specialized in [your specializations, e.g., front-end web development], combinin
 
 ## 🚀 Tech Stack 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) 
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square) 
@@ -33,6 +30,9 @@ Specialized in [your specializations, e.g., front-end web development], combinin
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square) 
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square) 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) 
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square) 
 
 <!-- Add more shields for your stack. Search "shields.io badge <tech>" on Google! -->
 
