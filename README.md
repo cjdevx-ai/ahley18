@@ -13,7 +13,12 @@ Specialized in [your specializations, e.g., front-end web development], combinin
 
 ## 🚀 Tech Stack 
 
+## 🚀 Tech Stack 
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) 
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square) 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square) 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square) 
@@ -29,10 +34,15 @@ Specialized in [your specializations, e.g., front-end web development], combinin
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square) 
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) 
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square) 
+![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FF9E0F?logo=huggingface&logoColor=white&style=flat-square) 
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink&logoColor=white&style=flat-square) 
+![Transformers](https://img.shields.io/badge/-Transformers-0F74C0?logo=fastapi&logoColor=white&style=flat-square) 
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?logo=spacy&logoColor=white&style=flat-square) 
+![NLTK](https://img.shields.io/badge/-NLTK-154F6F?logo=python&logoColor=white&style=flat-square) 
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square) 
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-8E44AD?logo=spark&logoColor=white&style=flat-square)
+
 
 <!-- Add more shields for your stack. Search "shields.io badge <tech>" on Google! -->
 
