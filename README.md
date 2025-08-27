@@ -1,17 +1,18 @@
 # 👋 Hi there
 
-I'm **Clarence Fetalino**, a passionate AI/SW Engineer and [something else you like, e.g., tech enthusiast, content creator].  
-With over X years of experience in [your field], I've had the opportunity to work on various projects and learn different technologies.
+I'm **Clarence Fetalino**, a passionate **AI Engineer and Tech Enthusiast**.  
+With over 4 years of experience in **Artificial Intelligence, Data Science, and Software Engineering**,  
+I've worked on projects ranging from **machine learning & NLP** to **full-stack development and cloud solutions**.
 
 ## 🛠️ Expertise
 
-Passionate about crafting [your expertise, e.g., interactive and intuitive user experiences].  
-Specialized in [your specializations, e.g., front-end web development], combining modern frameworks with best practices.
+- 🚀 Building **AI/ML pipelines**, **Generative AI apps**, and **LLM-powered solutions**  
+- 🤖 Specializing in **Deep Learning, NLP, and Computer Vision**  
+- ☁️ Skilled in **Cloud & DevOps** (AWS, GCP, Docker)  
+- 📊 Experienced with **Data Science tools** (Python, Pandas, TensorFlow, PyTorch)  
+- 🤝 Strong background in **team collaboration & leadership**  
+- 💡 Passionate about **research, learning, and sharing knowledge**  
 
-- Short description of your journey and skills.
-- Mention teams, leadership, or anything you want to highlight.
-
-## 🚀 Tech Stack 
 
 ## 🚀 Tech Stack 
 
