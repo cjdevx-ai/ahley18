@@ -5,7 +5,7 @@
 
 # 👋 Hey there, I'm Clarence  
 
-🚀 **AI Engineer | Generative AI Specialist | Tech Enthusiast**  
+🚀 **AI Software Engineer | Generative AI Specialist | Tech Enthusiast**  
 
 With **4+ years of experience** in **Artificial Intelligence, Generative AI, and Software Engineering**,  
 I specialize in building **LLM-powered apps, AI copilots, and multimodal systems** — transforming ideas into **next-gen AI solutions**.  
