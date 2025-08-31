@@ -25,7 +25,14 @@ I specialize in building **LLM-powered apps, AI copilots, and multimodal systems
 ## 🚀 Tech Stack (GenAI & Beyond)  
 
 <p align="center">
-  
+
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
+
 <!-- Generative AI Core -->
 <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-HuggingFace-FF9E0F?logo=huggingface&logoColor=white&style=for-the-badge" />
