@@ -67,8 +67,8 @@ I specialize in building **LLM-powered apps, AI copilots, and multimodal systems
 ### 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahley18&show_icons=true&theme=radical" alt="GitHub Stats" width="450px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahley18&layout=compact&theme=radical" alt="Top Languages" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjdevx-ai&show_icons=true&theme=radical" alt="GitHub Stats" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdevx-ai&layout=compact&theme=radical" alt="Top Languages" width="450px">
 </p>
 
 ---
